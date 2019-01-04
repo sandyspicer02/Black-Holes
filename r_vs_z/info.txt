@@ -1,0 +1,3 @@
+# These files contain three columns in the following order: gas particle ID that matches between simulation file and Swallow_shortlist.txt, scale factor, and radius (see radius_vs_scalef.py for information about how this is calculated
+
+# master.txt includes the gas particle ID's, scale factors, and radii for all snapshots whereas the rest are organized based on snapshot number
